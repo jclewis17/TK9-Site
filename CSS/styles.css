@@ -30,6 +30,7 @@ HEADER
 .main-nav {
   margin: 40px auto;
   max-width: 100%;
+  text-align: center;
 }
 
 .main-nav li {
@@ -38,6 +39,6 @@ HEADER
   border: 1px solid #182A55;
   border-radius: 50px;
   display: block;
-  padding: 10px 0;
+  padding: 10px;
   margin: 20px 0;
 }
