@@ -29,6 +29,7 @@ HEADER
 
 .main-nav {
   margin-top: 50px;
+  margin-bottom: 50px;
   max-width: 100%;
   text-align: center;
   display: inline-block;
@@ -49,4 +50,26 @@ HEADER
 .main-nav a {
   transition: .2s ease-in-out;
       color: .2s ease-in-out;
+}
+
+/*******************
+BODY
+*******************/
+
+.intro-pic {
+  border: 3px solid #182A55;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: #fff;
+}
+
+.img-txt {
+  position: absolute;
+  bottom: 40px;
+  left: 50px;
+  font-size: 50px;
+  text-align: left;
 }
