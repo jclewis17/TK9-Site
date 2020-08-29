@@ -28,10 +28,11 @@ HEADER
 }
 
 .main-nav {
-  margin-top: 40px;
+  margin-top: 50px;
   max-width: 100%;
   text-align: center;
   display: inline-block;
+  padding: 0;
 }
 
 .main-nav li {
@@ -39,6 +40,5 @@ HEADER
   list-style-type: none;
   display: inline;
   padding: 10px;
-  margin-right: 10px;
   margin-top: 40px;
 }
