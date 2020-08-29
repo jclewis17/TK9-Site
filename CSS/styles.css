@@ -39,6 +39,14 @@ HEADER
   background-color: #fff;
   list-style-type: none;
   display: inline;
-  padding: 10px;
-  margin-top: 40px;
+  padding: 20px;
+}
+
+.main-nav a:hover {
+  color: #2484BC;
+}
+
+.main-nav a {
+  transition: .2s ease-in-out;
+      color: .2s ease-in-out;
 }
