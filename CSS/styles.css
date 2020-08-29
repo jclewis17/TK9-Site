@@ -1,3 +1,7 @@
+/*******************
+BASE SELECTORS
+*******************/
+
 * {
   box-sizing: border-box;
 }
@@ -7,4 +11,33 @@ body {
   padding: 0;
   margin: 0;
   text-align: center;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #182A55;
+}
+
+/*******************
+HEADER
+*******************/
+
+.main-header {
+  margin-top: 30px;
+}
+
+.main-nav {
+  margin: 40px auto;
+  max-width: 100%;
+}
+
+.main-nav li {
+  background-color: #fff;
+  list-style-type: none;
+  border: 1px solid #182A55;
+  border-radius: 50px;
+  display: block;
+  padding: 10px 0;
+  margin: 20px 0;
 }
